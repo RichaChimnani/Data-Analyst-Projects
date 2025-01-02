@@ -1,9 +1,9 @@
 # Portfolio Projects
 Following are my projects in SQL, Python, Tableau & Excel:
 
-You can take a look at my personal website : www.richabalani.wixsite.com/richabalani)
+My personal website : www.richabalani.wixsite.com/richabalani)
 
-You can also take a look at my Linkedin : www.linkedin.com/in/richa-balani
+My Linkedin : www.linkedin.com/in/richa-balani
  
  SQL & Tableau -
 Instagram Data Analysis Project
