@@ -14,3 +14,5 @@ See on Tableau Public: (https://public.tableau.com/views/InstagramCloneDataAnaly
 Review the Data Insertion SQL Script: HERE
 
 Review the Data Exploration SQL Script: HERE
+
+![image](https://github.com/user-attachments/assets/05f8f75b-f1d6-47ee-9328-0b3a55fb13b2)
