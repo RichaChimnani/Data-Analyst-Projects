@@ -42,4 +42,12 @@ Review the PostgreSQL Script: [HERE](https://github.com/RichaChimnani/Data-Analy
 
  
 ### Python -
+#### Comparing Stocks performace using Clustering
+We have dataset of around 500 stocks. Using this dataset we will be predicting performance for stocks
+
+Review Python Script : [HERE](https://github.com/RichaChimnani/Comparing-Stocks-performance)
+
+Dataset Link
+
+https://drive.google.com/file/d/1pP0Rr83ri0voscgr95-YnVCBv6BYV22w/view
 
