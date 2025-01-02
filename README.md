@@ -1,6 +1,6 @@
 # Portfolio Projects
 
-## My personal website : www.richabalani.wixsite.com/richabalani)
+## My personal website : www.richabalani.wixsite.com/richabalani
 
 ## My Linkedin : www.linkedin.com/in/richa-balani
 
@@ -9,7 +9,7 @@ Following are my projects in SQL, Python, Tableau & Excel:
 ### SQL & Tableau -
 Instagram Data Analysis Project
 
-See on Tableau Public: (https://public.tableau.com/views/InstagramCloneDataAnalysisDashboard_17357939353050/InstagramCloneDataAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+See on Tableau Public: https://public.tableau.com/views/InstagramCloneDataAnalysisDashboard_17357939353050/InstagramCloneDataAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Review the Data Insertion SQL Script: HERE
 
@@ -26,19 +26,24 @@ Review the HiveQL Script: HERE
 ### SQL -
 
 Nashville Housing Dataset: Data Cleaning
+
 Review the SQL Script: HERE
 
 COVID-19 Dataset: Data Exploration
+
 Review the SQL Script: HERE
 
 
 ### PostgreSQL -
 Business Intelligence Challenge
+
 Review the PostgreSQL Script: HERE
+
 Review the Google Slides Deck to see the Data Visualizations: HERE
 
  
 ### Python -
 
 Movies Industry Dataset: Exploratory Data Analysis Project
+
 Read the complete Project Analysis in Markdown: HERE
