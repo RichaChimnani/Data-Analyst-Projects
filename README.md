@@ -8,6 +8,9 @@ My Linkedin : www.linkedin.com/in/richa-balani
 SQL & Tableau -
 
 Instagram Data Analysis Project
+
 See on Tableau Public: Dashboard
+
 Review the Data Insertion SQL Script: HERE
+
 Review the Data Exploration SQL Script: HERE
